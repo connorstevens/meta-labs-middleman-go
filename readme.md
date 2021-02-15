@@ -1,8 +1,8 @@
 # meta-labs-middleman-go
-meta-labs-middleman is a boilerplate to serve authentication requests with the Meta Labs API. It can be adjusted to your needs easily.
+A boilerplate to serve authentication requests made simple through the Meta Labs API.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
+Pull Requests are welcome. 
+For Major Changes, please open an issue first to discuss what should be changed.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
